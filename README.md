@@ -2,7 +2,7 @@
 
 A digital archive preserving Palestinian memory and identity through personal stories, testimonies, and narratives.
 
-![Shazaya Al-Watan Banner](public/palestine.png)
+![Shazaya Al-Watan Banner](https://fragmentsofhome.onrender.com/palestine.png)
 
 ## 🌍 Live Site
 
